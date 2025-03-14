@@ -89,8 +89,8 @@ public class SortingComparison {
 ```
 
 # Outputs 
-`Average comparisons in Insertion Sort: 251040`
-`Average comparisons in Merge Sort: 4358079`
+- `Average comparisons in Insertion Sort: 251040`
+- `Average comparisons in Merge Sort: 4358079`
 
 # Comments 
 Although Merge Sort has an asymptotically better time complexity (𝑂(𝑛log𝑛)) than Insertion Sort (𝑂(𝑛^2)), our experiment shows that Merge Sort performs more comparisons at 𝑛= 1000.
