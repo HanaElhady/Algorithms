@@ -38,7 +38,7 @@ Expected Output:
 (Edge case: should return the same single element.)
  */
 
-public class SelectionSort {
+public class InsertionSort {
     public static void main(String[] args ) {
     int[] arr = {9, 7, 5, 3, 1};
     int temp;
